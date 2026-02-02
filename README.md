@@ -18,6 +18,7 @@ Trained using backpropagation and gradient descent
 Demonstrates learning on the XOR dataset
 
 **Network Architecture**
+
 *Hidden Layer Activation:* ReLU
 
 *Output Layer Activation:* Sigmoid
