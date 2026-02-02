@@ -30,6 +30,7 @@ Demonstrates learning on the XOR dataset
 **Clone the Repository**
 
 git clone https://github.com/Foysal348/Neural-Network-from-Scratch.git
+
 cd Neural-Network-from-Scratch
 
 **Author**
